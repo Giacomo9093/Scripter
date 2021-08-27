@@ -19,7 +19,9 @@ After filling in all the fields,
 type in the terminal:
 --------------------------------------------------------------------------------------------
 > cd / home / $ USER /
+
 And...
+
 > chmod + x youfile.desktop
 --------------------------------------------------------------------------------------------
 replacing "yourfile" with the name you gave the link.
