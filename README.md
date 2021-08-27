@@ -1,5 +1,5 @@
 --------------------------------------------------------------------------------------------
-SCRIPTER |  v1.0 | Giacomo9093 | Apache License
+SCRIPTER | Giacomo9093 | Apache License
 --------------------------------------------------------------------------------------------
 Scripter, made for GNU / Linux operating systems
 in particular for Ubuntu, it allows you to create desktop shortcuts
