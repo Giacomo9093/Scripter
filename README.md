@@ -18,7 +18,7 @@ A graphical interface will open from which you can create your desktops online.
 After filling in all the fields,
 type in the terminal:
 --------------------------------------------------------------------------------------------
-> cd / home / $ USER /
+> cd /home/$USER/
 
 And...
 
