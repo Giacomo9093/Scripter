@@ -13,7 +13,7 @@ Scripter, does not require an installation, just unzip the archive, open the ter
 --------------------------------------------------------------------------------------------
 > python3 Scripter.py
 -------------------------------------------------------------------------------------------
-A graphical interface will open from which you can create your desktops online.
+A graphical interface will open from which you can create your desktops file.
 --------------------------------------------------------------------------------------------
 After filling in all the fields,
 type in the terminal:
