@@ -15,14 +15,13 @@ Scripter, does not require an installation, just unzip the archive, open the ter
 -------------------------------------------------------------------------------------------
 A graphical interface will open from which you can create your desktops file.
 --------------------------------------------------------------------------------------------
-After filling in all the fields,
-type in the terminal:
+After filling in all the fields, and pressing "Make Desktop Shortcut" type in the terminal:
 --------------------------------------------------------------------------------------------
-> cd /home/$USER/
+> cd ~/
 
 And...
 
-> chmod +x youfile.desktop
+> chmod +x yourfile.desktop
 --------------------------------------------------------------------------------------------
 replacing "yourfile" with the name you gave the link.
 (The field you filled in called "File.desktop")
